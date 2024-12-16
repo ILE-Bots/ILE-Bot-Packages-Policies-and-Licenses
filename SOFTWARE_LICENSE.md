@@ -1,6 +1,6 @@
 # **Software License Agreement**
 
-This **Software License Agreement** (the “Agreement”) is entered into by and between **ILE Customs**, hereinafter referred to as "Licensor", and the individual or entity purchasing or using the Software (the “Licensee”). By purchasing, downloading, or using the Software, Licensee agrees to be bound by the terms and conditions set forth in this Agreement.
+This **Software License Agreement** (the “Agreement”) is entered into by and between **[ILE Customs](https://discord.gg/ilecustoms)**, hereinafter referred to as "Licensor", and the individual or entity purchasing or using the Software (the “Licensee”). By purchasing, downloading, or using the Software, Licensee agrees to be bound by the terms and conditions set forth in this Agreement.
 
 ## **1. Grant of License**
 ### 1.1 **License Scope**

@@ -62,19 +62,12 @@ Licensor may terminate this Agreement immediately if Licensee fails to comply wi
 ### 8.2 **Post-Termination**
 Upon termination of this Agreement, Licensee must immediately cease using the Software and remove all copies from their systems. Any rights granted to Licensee will be revoked, and Licensee will no longer have access to the Software.
 
-## **9. Dispute Resolution**
-### 9.1 **Arbitration**
-Any dispute arising out of or in connection with this Agreement will be resolved through binding arbitration conducted in **[Insert Location]**, in accordance with the rules of **[Arbitration Organization]**.
+## **9. Miscellaneous**
 
-### 9.2 **Legal Fees**
-The prevailing party in any legal action will be entitled to recover their legal costs from the losing party.
-
-## **10. Miscellaneous**
-
-### 10.1 **Entire Agreement**
+### 9.1 **Entire Agreement**
 This Agreement constitutes the entire understanding between the parties regarding the Software and supersedes all prior agreements, both written and oral, between the parties.
 
-### 10.2 **Transferability**
+### 9.2 **Transferability**
 This Agreement is personal to Licensee and may not be assigned or transferred without the prior written consent of Licensor.
 
 ---

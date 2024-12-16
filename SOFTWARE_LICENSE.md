@@ -70,13 +70,11 @@ Any dispute arising out of or in connection with this Agreement will be resolved
 The prevailing party in any legal action will be entitled to recover their legal costs from the losing party.
 
 ## **10. Miscellaneous**
-### 10.1 **Governing Law**
-This Agreement shall be governed by and construed in accordance with the laws of **[Insert Country/State]**.
 
-### 10.2 **Entire Agreement**
+### 10.1 **Entire Agreement**
 This Agreement constitutes the entire understanding between the parties regarding the Software and supersedes all prior agreements, both written and oral, between the parties.
 
-### 10.3 **Transferability**
+### 10.2 **Transferability**
 This Agreement is personal to Licensee and may not be assigned or transferred without the prior written consent of Licensor.
 
 ---

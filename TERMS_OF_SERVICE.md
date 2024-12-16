@@ -7,7 +7,7 @@ This document outlines the terms governing your purchase, use, and licensing of 
 ## **1. Licensing and Ownership**
 
 ### **1.1 Grant of License**
-By purchasing any bot, you are granted a **non-exclusive**, **non-transferable** license under the **[ILE Customs Software License](https://github.com/ILE-Bots/ILE-Bot-Packages-Policies-and-Licenses/blob/main/SOFTWARE_LICENSE.md)** to use the software.  
+By purchasing any bot, you are granted a **non-exclusive**, **non-transferable** license under the **ILE Customs Software License** to use the software.  
 - The license permits use solely for **personal purposes** within your own Discord server(s).  
 - **Prohibited Actions**:
   - Sharing, distributing, reselling, or sublicensing the bot or its code to third parties.

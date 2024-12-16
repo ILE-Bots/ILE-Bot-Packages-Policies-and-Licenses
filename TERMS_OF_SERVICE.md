@@ -1,6 +1,6 @@
 # **Terms of Service and Licensing Agreement**
 
-This document outlines the terms governing your purchase, use, and licensing of any bot (Design Server Management Bot, General Server Management Bot, or ERLC Server Management Bot) provided by **ILE Customs**. By purchasing or using the bot, you agree to the terms set forth below. These terms are binding and include adherence to the **ILE Customs Software License**, referenced herein.
+This document outlines the terms governing your purchase, use, and licensing of any bot (Design Server Management Bot, General Server Management Bot, or ERLC Server Management Bot) provided by **[ILE Customs](https://discord.gg/ilecustoms)**. By purchasing or using the bot, you agree to the terms set forth below. These terms are binding and include adherence to the **[ILE Customs Software License](https://github.com/ILE-Bots/ILE-Bot-Packages-Policies-and-Licenses/blob/main/SOFTWARE_LICENSE.md)**, referenced herein.
 
 ---
 
